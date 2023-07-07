@@ -7,6 +7,6 @@
 </a>
 
 
-- 🌱 I’m currently learning C#/JavaScript(frameworks: React-Angular)
+- 🌱 I’m currently learning C#/JavaScript/TypeScript(frameworks: React-Angular)
 - 📫 How to reach me: enzo.loliveira@hotmail.com
-- 😄 Pronomes: ele/dele
+- 😄 Pronouns: ele/dele(he/him)
