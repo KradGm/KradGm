@@ -1,5 +1,7 @@
 
-### Ei! Me chamo Enzo sou de Lagoa Santa/MG e sou desenvolvedor Back-End Júnior!! Hello! My name is Enzo i'm from Lagoa Santa/MG/BR and i'm a back-end Júnior developer !!  
+### Ei! Me chamo Enzo sou de Lagoa Santa/MG e sou desenvolvedor Full-Stack Júnior!! 
+
+### Hello! My name is Enzo i'm from Lagoa Santa/MG/BR and i'm a Full-Stack Júnior developer !!  
 <a href="https://github-readme-stats.vercel.app/api?username=KradGm">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KradGm&show_icons=true&theme=dark" />
 </a>
@@ -10,9 +12,14 @@
 - 🌱 Atualmente estou estudando C#/Java/SQL/JavaScript/TypeScript(frameworks: React-Angular)
 
 - 🌱 I’m currently learning C#/Java/SQL/JavaScript/TypeScript(frameworks: React-Angular)
+  
 - 📫 Contato: enzo.loliveira@hotmail.com
 
 - 📫 How to reach me: enzo.loliveira@hotmail.com
+
+-:school: Atualmente estou cursando Jogos Digitais em EAD, porem, pretendo iniciar o curso de Engenharia de Software assim que me formar na minha faculdade atual.
+
+-:school: I am currently studying Digital Games in EAD, however, I intend to start the Software Engineering course as soon as I graduate from my current college.
 
 ## Tecnologias
 ![C#](https://img.shields.io/badge/csharp-000?style=for-the-badge&logo=csharp)
