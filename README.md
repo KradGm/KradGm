@@ -17,9 +17,9 @@
 
 - 📫 How to reach me: enzo.loliveira@hotmail.com
 
--:school: Atualmente estou cursando Jogos Digitais em EAD, porem, pretendo iniciar o curso de Engenharia de Software assim que me formar na minha faculdade atual.
+- :school: Atualmente estou cursando Jogos Digitais em EAD, porem, pretendo iniciar o curso de Engenharia de Software assim que me formar na minha faculdade atual.
 
--:school: I am currently studying Digital Games in EAD, however, I intend to start the Software Engineering course as soon as I graduate from my current college.
+- :school: I am currently studying Digital Games in EAD, however, I intend to start the Software Engineering course as soon as I graduate from my current college.
 
 ## Tecnologias
 ![C#](https://img.shields.io/badge/csharp-000?style=for-the-badge&logo=csharp)
