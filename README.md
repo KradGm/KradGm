@@ -9,12 +9,12 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KradGm&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
 </a>
 
-- 🌱 Atualmente estou estudando C#/Java/SQL/JavaScript/TypeScript(frameworks: React-Angular)
+- 🌱 Atualmente envolvido em projetos Angular + Java + Oracle PL/SQL&SQL Server com experiencia também em React e C#(.NET).
 - 📫 Contato: enzo.loliveira@hotmail.com
 - :school: Formado em jogos digitais, atualmente estudando para certificações em Java e AWS.
 
-- 🌱 I’m currently learning C#/Java/SQL/JavaScript/TypeScript(frameworks: React-Angular)
-- 📫 How to reach me: enzo.loliveira@hotmail.com
+- 🌱 I’m currently working on projects involving Angular, Java, and Oracle PL/SQL&SQL Server, with experience in React and C# (.NET) as well.
+- 📫 You can reach me at: enzo.loliveira@hotmail.com
 - :school: Graduated in Digital Gaming, currently studying for AWS and Java certifications.
 
 ## Tecnologias
