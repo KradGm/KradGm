@@ -1,7 +1,7 @@
 
-### Ei! Me chamo Enzo sou de Lagoa Santa/MG e sou desenvolvedor Full-Stack Júnior!! 
+### Ei! Me chamo Enzo sou de BR/MG e sou desenvolvedor Full-Stack!! 
 
-### Hello! My name is Enzo i'm from Lagoa Santa/MG/BR and i'm a Full-Stack Júnior developer !!  
+### Hello! I'm Enzo from MG/BR, and I'm a Full-Stack Developer!  
 <a href="https://github-readme-stats.vercel.app/api?username=KradGm">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KradGm&show_icons=true&theme=dark" />
 </a>
@@ -9,11 +9,11 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KradGm&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
 </a>
 
-- 🌱 Atualmente envolvido em projetos Angular + Java + Oracle PL/SQL&SQL Server com experiencia também em React e C#(.NET).
+- 🌱 Atualmente envolvido em projetos com Angular, Java, Oracle PL/SQL e SQL Server, com experiência também em React e C# (.NET).
 - 📫 Contato: enzo.loliveira@hotmail.com
 - :school: Formado em jogos digitais, atualmente estudando para certificações em Java e AWS.
 
-- 🌱 I’m currently working on projects involving Angular, Java, and Oracle PL/SQL&SQL Server, with experience in React and C# (.NET) as well.
+- 🌱 I’m currently working on projects involving Angular, Java, and Oracle PL/SQL and SQL Server, with experience in React and C# (.NET) as well.
 - 📫 You can reach me at: enzo.loliveira@hotmail.com
 - :school: Graduated in Digital Gaming, currently studying for AWS and Java certifications.
 
