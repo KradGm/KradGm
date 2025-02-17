@@ -10,16 +10,12 @@
 </a>
 
 - 🌱 Atualmente estou estudando C#/Java/SQL/JavaScript/TypeScript(frameworks: React-Angular)
+- 📫 Contato: enzo.loliveira@hotmail.com
+- :school: Formado em jogos digitais, atualmente estudando para certificações em Java e AWS.
 
 - 🌱 I’m currently learning C#/Java/SQL/JavaScript/TypeScript(frameworks: React-Angular)
-  
-- 📫 Contato: enzo.loliveira@hotmail.com
-
 - 📫 How to reach me: enzo.loliveira@hotmail.com
-
-- :school: Atualmente estou cursando Jogos Digitais em EAD, porem, pretendo iniciar o curso de Engenharia de Software assim que me formar na minha faculdade atual.
-
-- :school: I am currently studying Digital Games in EAD, however, I intend to start the Software Engineering course as soon as I graduate from my current college.
+- :school: Graduated in Digital Gaming, currently studying for AWS and Java certifications.
 
 ## Tecnologias
 ![C#](https://img.shields.io/badge/csharp-000?style=for-the-badge&logo=csharp)
